@@ -1,3 +1,3 @@
-# util-types
+# util-types ![NPM Version](https://img.shields.io/npm/v/util-ts-types)
 
-(Private) Essential TypeScript utility types.
+Essential TypeScript utility types.
